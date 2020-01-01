@@ -1,0 +1,14 @@
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\obj\Debug\netcoreapp2.1\BugTrackerAPITest.csprojAssemblyReference.cache
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\obj\Debug\netcoreapp2.1\BugTrackerAPITest.csproj.CoreCompileInputs.cache
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\obj\Debug\netcoreapp2.1\BugTrackerAPITest.AssemblyInfoInputs.cache
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\obj\Debug\netcoreapp2.1\BugTrackerAPITest.AssemblyInfo.cs
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\bin\Debug\netcoreapp2.1\BugTrackerAPITest.deps.json
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\bin\Debug\netcoreapp2.1\BugTrackerAPITest.runtimeconfig.json
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\bin\Debug\netcoreapp2.1\BugTrackerAPITest.runtimeconfig.dev.json
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\bin\Debug\netcoreapp2.1\BugTrackerAPITest.dll
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\bin\Debug\netcoreapp2.1\BugTrackerAPI.dll
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\bin\Debug\netcoreapp2.1\BugTrackerAPI.pdb
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPITest\obj\Debug\netcoreapp2.1\BugTrackerAPITest.csproj.CopyComplete

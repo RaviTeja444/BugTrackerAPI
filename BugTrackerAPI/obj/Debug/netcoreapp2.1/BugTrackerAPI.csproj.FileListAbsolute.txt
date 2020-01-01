@@ -1,0 +1,16 @@
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\bin\Debug\netcoreapp2.1\NLog.config
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\bin\Debug\netcoreapp2.1\BugTrackerAPI.deps.json
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\bin\Debug\netcoreapp2.1\BugTrackerAPI.runtimeconfig.json
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\bin\Debug\netcoreapp2.1\BugTrackerAPI.runtimeconfig.dev.json
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\bin\Debug\netcoreapp2.1\BugTrackerAPI.dll
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\bin\Debug\netcoreapp2.1\BugTrackerAPI.pdb
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\obj\Debug\netcoreapp2.1\BugTrackerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\obj\Debug\netcoreapp2.1\BugTrackerAPI.RazorAssemblyInfo.cache
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\obj\Debug\netcoreapp2.1\BugTrackerAPI.RazorAssemblyInfo.cs
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\obj\Debug\netcoreapp2.1\BugTrackerAPI.AssemblyInfoInputs.cache
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\obj\Debug\netcoreapp2.1\BugTrackerAPI.AssemblyInfo.cs
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\obj\Debug\netcoreapp2.1\BugTrackerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\obj\Debug\netcoreapp2.1\BugTrackerAPI.dll
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\obj\Debug\netcoreapp2.1\BugTrackerAPI.pdb
+C:\Users\Ravi Teja\source\repos\BugTrackerAPI\BugTrackerAPI\obj\Debug\netcoreapp2.1\BugTrackerAPI.csprojAssemblyReference.cache
